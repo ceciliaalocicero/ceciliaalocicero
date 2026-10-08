@@ -14,18 +14,6 @@ I’m drawn to the intersection of markets, data and real-world decisions. I enj
 - **Alternative data:** using sentiment, attention and text signals to complement standard datasets
 - **Decision-ready analysis:** clear baselines, sound validation and reproducible results that people can rely on
 
-### Selected work
-
-**Quant & finance**
-
-- [**StockTwits sentiment & asset pricing**](https://github.com/ceciliaalocicero/stocktwits-sentiment-asset-pricing): sentiment models benchmarked on 5.6M StockTwits posts, plus an abnormal-attention factor tested with portfolio sorts and the Fama–French five factors
-- [**CAPM empirical tests**](https://github.com/ceciliaalocicero/capm-empirical-tests-sp500): rolling betas, beta-sorted portfolios, Fama–MacBeth and GRS tests on US equities
-
-**Data science & machine learning**
-
-- [**Dog-whistle detection**](https://github.com/ceciliaalocicero/dogwhistle-detection): end-to-end NLP pipeline for detection, in-group classification and explainable generation with RoBERTa and Flan-T5-XL
-- [**Online networks & STI diffusion**](https://github.com/ceciliaalocicero/online-networks-sti-simulation): agent-based model of assortative matching, hub formation and STI spread on OKCupid profile data
-
 ### Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -58,3 +46,16 @@ I’m drawn to the intersection of markets, data and real-world decisions. I enj
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecilia-lo-cicero)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cecilia.locicero@gmail.com)
+
+
+### Selected work
+
+**Quant & finance**
+
+- [**StockTwits sentiment & asset pricing**](https://github.com/ceciliaalocicero/stocktwits-sentiment-asset-pricing): sentiment models benchmarked on 5.6M StockTwits posts, plus an abnormal-attention factor tested with portfolio sorts and the Fama–French five factors
+- [**CAPM empirical tests**](https://github.com/ceciliaalocicero/capm-empirical-tests-sp500): rolling betas, beta-sorted portfolios, Fama–MacBeth and GRS tests on US equities
+
+**Data science & machine learning**
+
+- [**Dog-whistle detection**](https://github.com/ceciliaalocicero/dogwhistle-detection): end-to-end NLP pipeline for detection, in-group classification and explainable generation with RoBERTa and Flan-T5-XL
+- [**Online networks & STI diffusion**](https://github.com/ceciliaalocicero/online-networks-sti-simulation): agent-based model of assortative matching, hub formation and STI spread on OKCupid profile data
