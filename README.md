@@ -1,6 +1,6 @@
 # Cecilia Lo Cicero
 
-**Turning complexity into evidence-based decisions** · MSc Data Science and Business Analytics, Bocconi University
+**MSc Data Science and Business Analytics @ Bocconi University**
 
 I’m drawn to the intersection of markets, data and commercial decision-making. I enjoy working through the evidence behind a question—whether it concerns a market signal, a client, or a broader business decision—and communicating the answer clearly. Markets are a particular interest, but rigorous and useful analysis is the common thread.
 
