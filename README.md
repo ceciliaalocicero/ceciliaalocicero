@@ -20,11 +20,9 @@ I’m drawn to the intersection of markets, data and real-world decisions. I enj
 
 - [**StockTwits sentiment & asset pricing**](https://github.com/ceciliaalocicero/stocktwits-sentiment-asset-pricing): sentiment models benchmarked on 5.6M StockTwits posts, plus an abnormal-attention factor tested with portfolio sorts and the Fama–French five factors
 - [**CAPM empirical tests**](https://github.com/ceciliaalocicero/capm-empirical-tests-sp500): rolling betas, beta-sorted portfolios, Fama–MacBeth and GRS tests on US equities
-- [**Markowitz backtest**](https://github.com/ceciliaalocicero/markowitz-portfolio-optimization-backtest): mean-variance optimisation on 8 US stocks (2012–2020), evaluated out of sample against 1/N
 
 **Data science & machine learning**
 
-- [**Recipe cuisine classifier**](https://github.com/ceciliaalocicero/recipe-cuisine-classifier): 15+ methods compared by cross-validation on 40 ingredient scores, ending in a stacked ensemble
 - [**Dog-whistle detection**](https://github.com/ceciliaalocicero/dogwhistle-detection): end-to-end NLP pipeline for detection, in-group classification and explainable generation with RoBERTa and Flan-T5-XL
 - [**Online networks & STI diffusion**](https://github.com/ceciliaalocicero/online-networks-sti-simulation): agent-based model of assortative matching, hub formation and STI spread on OKCupid profile data
 
