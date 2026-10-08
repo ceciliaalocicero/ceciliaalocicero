@@ -2,16 +2,16 @@
 
 **Turning complexity into evidence-based decisions** · MSc Data Science and Business Analytics, Bocconi University
 
-I bring technical depth and business sense to the same problem, so that analytics sits at the centre of the decision rather than on the side. Markets are where I have the most fun: most of my projects test what really drives returns, from asset-pricing factors to sentiment on social media. The same rigour carries over to any question that data can answer.
+I’m drawn to the intersection of markets, data and commercial decision-making. I enjoy working through the evidence behind a question—whether it concerns a market signal, a client, or a broader business decision—and communicating the answer clearly. Markets are a particular interest, but rigorous and useful analysis is the common thread.
 
 🌍 Lived on three continents: Canada · France · Italy · the Netherlands · Shanghai · Hong Kong
 🗣️ Fluent in French, English and Italian
 
-### What drives me
+### What I’m interested in
 
-- **Markets and trading:** how prices absorb information, and which factors still hold up out of sample
-- **Alternative data:** sentiment, attention and text signals that standard datasets miss
-- **Insight people can act on:** honest baselines, clean validation and results that reproduce, so decisions rest on solid evidence
+- **Markets and trading:** how information is reflected in prices, and which factors remain robust out of sample
+- **Alternative data:** using sentiment, attention and text signals to complement standard datasets
+- **Decision-ready analysis:** clear baselines, sound validation and reproducible results that people can rely on
 
 ### Selected work
 
