@@ -2,7 +2,7 @@
 
 **MSc Data Science and Business Analytics @ Bocconi University**
 
-I’m drawn to the intersection of markets, data and commercial decision-making. I enjoy working through the evidence behind a question, whether it concerns a market signal, a client, or a broader business decision, and communicating the answer clearly. Markets are a particular interest, but I enjoy applying the same structured approach to a wide range of questions!
+I’m drawn to the intersection of markets, data and real-world decisions. I enjoy working through the evidence behind a question, whether it concerns a market signal, a client, or a broader business decision, and communicating the answer clearly. Markets are a particular interest, but I enjoy applying the same structured approach to a wide range of questions!
 
 🌍 Lived on three continents: Canada · France · Italy · the Netherlands · Shanghai · Hong Kong
 
