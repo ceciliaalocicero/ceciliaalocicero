@@ -4,7 +4,7 @@
 
 I’m drawn to the intersection of markets, data and real-world decisions. I enjoy working through the evidence behind a question, whether it concerns a market signal, a client, or a broader business decision, and communicating the answer clearly. Markets are a particular interest, but I enjoy applying the same structured approach to a wide range of questions!
 
-🌍 Lived on three continents: Canada · France · Italy · the Netherlands · Shanghai · Hong Kong
+🌍 Lived on three continents: **North America** in Canada, **Europe** in France, Italy and the Netherlands, and **Asia** in Shanghai and Hong Kong
 
 🗣️ Fluent in French, English and Italian
 
